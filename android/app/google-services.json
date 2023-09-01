@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "627164806831",
+    "project_id": "per-diem-0",
+    "storage_bucket": "per-diem-0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627164806831:android:74be840661711c01edde5a",
+        "android_client_info": {
+          "package_name": "com.per_diem_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627164806831-vbhuh9s0nv08dp7bffbhsfqjg0u5gdtt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.per_diem_test",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "627164806831-k3erisd06nv576kslhqmub23ne22cdvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlBxhWHT76QDmqKlYwgRC-bkO9sDI3Hdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627164806831-cv5ipv1mmdi0rurf24t99kqaj80qodet.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "627164806831-q6lhv14pughe016utr3t327it8tluv3m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.perdiem.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
